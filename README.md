@@ -5,6 +5,9 @@
   * C
   * Flutter
   * Bash
+  * Python
+  * Dart
+  * C++
 
 ## Contact me here:
   * Email: araj4497@gmail.com
